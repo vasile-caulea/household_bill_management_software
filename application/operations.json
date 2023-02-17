@@ -1,0 +1,12 @@
+{
+  "tables_operations": {
+    "persons": ["ADD", "VIEW", "UPDATE", "DELETE"],
+    "invoices": ["ADD", "VIEW", "UPDATE", "DELETE"],
+    "contracts": ["ADD", "VIEW", "UPDATE", "DELETE"],
+    "providers_services": ["ADD", "VIEW", "UPDATE", "DELETE"],
+    "providers": ["ADD", "VIEW", "UPDATE", "DELETE"],
+    "services": ["ADD", "VIEW", "UPDATE", "DELETE"],
+    "services_descriptions": ["ADD", "VIEW", "UPDATE", "DELETE"],
+    "tariffs_types": ["ADD", "VIEW", "UPDATE", "DELETE"]
+  }
+}
